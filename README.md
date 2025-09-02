@@ -1,7 +1,4 @@
 # Tugas Mata Kuliah Pemrograman Web
-Dosen: 
-
-#Biodata
-Nama: Nur Hidayat
-NIM: 240209501052
+Nama: Nur Hidayat <br>
+NIM: 240209501052 <br>
 Kelas: PTIK C
